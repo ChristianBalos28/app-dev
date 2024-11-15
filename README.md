@@ -7,3 +7,11 @@
    - Hiro Hamada
    - Baymax
    - Tadashi Hamada
+   - Honey Lemon
+   - Go Go Tomago
+   - Wasabi
+2. Genre
+   - Adventure
+   - Sci-fi
+   - Action
+   - Comedy
